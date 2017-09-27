@@ -1,0 +1,10 @@
+zuul:
+  routes:
+    maintenance:
+      path: /maintenance/stds/api/**
+      serviceId: 100.69.238.11:8000/automarket
+    password:
+      path: /ticket/*
+      serviceId: 100.69.238.11:8000/automarket
+
+foo: test_yml
