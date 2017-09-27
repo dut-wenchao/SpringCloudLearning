@@ -7,4 +7,4 @@ zuul:
       path: /ticket/*
       serviceId: 100.69.238.11:8000/automarket
 
-foo: test_yml
+foo: test_yml_changed!
