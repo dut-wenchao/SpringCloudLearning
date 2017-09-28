@@ -9,5 +9,4 @@ zuul:
     mis:
       path: /mis/*
       serviceId: 100.69.238.11:8100/mis
-
-foo: test_yml_changed!
+  foo: test_yml_changed!
